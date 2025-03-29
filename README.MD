@@ -16,7 +16,7 @@
 git clone https://github.com/cpm-ayan/NquenTung.git
 ```
 ```
-cd CPMNuker
+cd NquenTung
 ```
 ```
 pip install -r requirements.txt
