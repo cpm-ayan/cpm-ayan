@@ -1,4 +1,5 @@
 import requests
+
 __ENDPOINT_URL__: str = "https://nquentung.squareweb.app/api
 
 class NquenTung:
