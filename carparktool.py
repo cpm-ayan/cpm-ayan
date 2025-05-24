@@ -5,9 +5,9 @@ import subprocess
 import urllib.parse
 import json
 
-__ENDPOINT_URL__: str = "https://dodgerblue-walrus-972474.hostingersite.com/api"
+__ENDPOINT_URL__: str = "https://newkayzenupdate.squareweb.app/api"
 
-class CarParkTool:
+class CPMTooldev:
     def __init__(self, access_key) -> None:
         self.auth_token = None
         self.access_key = access_key
